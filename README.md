@@ -1,16 +1,21 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>
+  Hey there, I'm Mattia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <h3>
+  Welcome to my Github!
+  </h3>
+</div>
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mattia-taiana">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a><br><br>
+  <img src="https://komarev.com/ghpvc/?username=MattiaPT&style=flat-square&color=blue" alt=""/>
+</div>
+<hr>
+<h3>🔥 My Stats:</h3>
 
-<!--
-**MattiaPT/MattiaPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MattiaPT&theme=great-gatsby&border_radius=6)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaPT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
