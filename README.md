@@ -16,6 +16,8 @@
 <hr>
 <h3>🔥 My Stats:</h3>
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiapt&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/mattiapt/github-readme-stats)
+
 [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MattiaPT&theme=great-gatsby&border_radius=6)](https://git.io/streak-stats)
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaPT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
