@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <hr>
-<h3>🔥 My Stats:</h3>
+<h3>My Github Stats:</h3>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaPT&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -33,4 +33,9 @@
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaPT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MattiaPT&theme=great-gatsby&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+([![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MattiaPT&theme=great-gatsby&langs_count=10)](https://github.com/anuraghazra/github-readme-stats))
+
+<hr>
+<h3>My Leetcode Stats:</h3>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/MattiaPT)
