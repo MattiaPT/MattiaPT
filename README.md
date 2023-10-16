@@ -22,7 +22,7 @@
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaPT&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-([![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MattiaPT&theme=great-gatsby&langs_count=10)](https://github.com/anuraghazra/github-readme-stats))
+<!--- [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MattiaPT&theme=great-gatsby&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) --->
 
 <hr>
 <h3>My Leetcode Stats:</h3>
